@@ -2,7 +2,7 @@
 <hr />
 
 
-<a href="[https://velog.io/@oka1313](https://code-pie.notion.site/toLocalString-effd2e6afea04626b60952b0110bac35?pvs=4)">
+<a href="https://code-pie.notion.site/toLocalString-effd2e6afea04626b60952b0110bac35?pvs=4">
   <img src="https://img.shields.io/badge/resume-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </a>
 
