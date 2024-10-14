@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=3000&color=FFFFFF&vCenter=true&width=435&height=40&lines=dingPie.toLocalString())](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=3000&color=FFFFFF&vCenter=true&width=435&height=40&lines=dingPie.toLocaleString())](https://git.io/typing-svg)
 <hr />
 
 
